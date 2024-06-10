@@ -3,3 +3,8 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 nginx:stable-alpine3.19-perl
+centos:centos7.9.2009
+mysql:latest
+java:8u111-jre-alpine
+golang
+redis:7.0.15-alpine3.20
