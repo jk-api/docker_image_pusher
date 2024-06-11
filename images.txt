@@ -8,3 +8,9 @@ mysql:latest
 java:8u111-jre-alpine
 golang
 redis:7.0.15-alpine3.20
+linode/kube-apiserver-amd64:v1.27.14
+linode/kube-controller-manager-amd64:v1.27.14
+linode/kube-scheduler-amd64:v1.27.14
+linode/kube-proxy-amd64:v1.27.14
+rancher/etcd:v3.4.13
+coredns/coredns:1.11.1
